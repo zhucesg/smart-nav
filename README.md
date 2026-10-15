@@ -1,4 +1,4 @@
-# 🌐 科技共享 - 智能多功能响应式全栈导航
+# 🌐 CF部署网址导航
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
